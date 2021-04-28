@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "goldstone.studio",
+  "Id": "897baa79-20b4-4bea-8aef-392934af14da"
+}
